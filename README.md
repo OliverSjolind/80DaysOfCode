@@ -14,8 +14,6 @@
 
 60 dagar (75%) Slickepinne
 
-#### Mall
-
 ##### Dag 1: Tisdag 2.10
 
 Projekt: Påbörjade "80 days of code".
@@ -24,4 +22,3 @@ Reflektioner: Lärde mig mera om github.
 
 Länkar:
 
-- www.codepen.com/8128973189273
